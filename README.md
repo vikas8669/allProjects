@@ -1,5 +1,6 @@
 # allProjects
-All projects Here
+This description provides a clear overview of the project and gives users quick instructions on how to get started. Feel free to modify the repository link and project name!
+All projects Here :
 |SNo| Project's Name | Links |
 |-|-|-|
 |01| Simon-Says-Game | [Click Here To Live](https://vikas8669.github.io/Simon-Says-Game/)
